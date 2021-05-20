@@ -1,0 +1,18 @@
+a=int(input('Enter Value: '))
+b=int(input('Enter Value: '))
+c=int(input('Enter Value: '))
+Total=a+b+c
+avg=total/3
+print('sum = %d'%total)
+print('average = %.2f'%avg)
+
+
+
+
+
+Output:
+Enter Value: 4
+Enter Value: 5
+Enter Value: 6
+Total = 15
+average = 5.00

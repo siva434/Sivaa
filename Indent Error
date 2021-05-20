@@ -1,0 +1,9 @@
+a=50
+    B=20
+ Print(a+b) 
+ 
+
+
+
+ #OutPut
+  Error:unexpected indent
